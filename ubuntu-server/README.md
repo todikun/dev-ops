@@ -9,7 +9,7 @@ Sebelum lebih jauh membahas instalasi Ubuntu Server pastikan PC/Laptop kita suda
     Selanjutnya akan tampil informasi **Hyper-V Requirements** seperti gambar berikut
 
     <p align="center">
-        <img src="./img/1.png" alt="devops">
+        <img src="./img/1.png" alt="devops" width="650">
     </p>
     
 2. **LeoMoon CPU-V** 
