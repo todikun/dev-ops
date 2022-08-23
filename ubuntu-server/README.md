@@ -158,9 +158,8 @@ Sebelum lebih jauh membahas instalasi Ubuntu Server pastikan PC/Laptop kita suda
         <img src="./img/25.png" alt="devops" width="650">
     </p>
 
-- Untuk memastikan Ubuntu Server telah terhubung ke internet gunakan perintah
-> ping google.com
-> 
+- Untuk memastikan Ubuntu Server telah terhubung ke internet gunakan perintah **ping google.com**
+
     <p align="center">
         <img src="./img/26.png" alt="devops" width="650">
     </p>
