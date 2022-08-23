@@ -33,57 +33,57 @@ Sebelum lebih jauh membahas instalasi Ubuntu Server pastikan PC/Laptop kita suda
 - Pilih Installer disc image file, dan cari file OS Ubuntu Server
 
     <p align="center">
-        <img src="./img/3.png" alt="devops">
+        <img src="./img/3.png" alt="devops" width="650">
     </p>
     
 - Isi Fullname, username dan password
 - Buat nama virtual machine dan tentukan lokasi path virtual machine
 
     <p align="center">
-        <img src="./img/4.png" alt="devops">
+        <img src="./img/4.png" alt="devops" width="650">
     </p>
     
     <p align="center">
-        <img src="./img/5.png" alt="devops">
+        <img src="./img/5.png" alt="devops" width="650">
     </p>
     
 - Isi jumlah kapasitas disk yang diinginkan, dan ceklis **Split virtual disk into multiple files.** maksudnya disk yang kita pakai untuk virtual machine kita nantinya akan dibagi menjadi beberapa bagian 
 
     <p align="center">
-        <img src="./img/6.png" alt="devops">
+        <img src="./img/6.png" alt="devops" width="650">
     </p>
     
 -  Klik Customize Hardware klik bagian Network Adapter ubah menjadi **Bridge** 
 -  Klik Finish
     
     <p align="center">
-        <img src="./img/7.png" alt="devops">
+        <img src="./img/7.png" alt="devops" width="650">
     </p>
     
     <p align="center">
-        <img src="./img/8.png" alt="devops">
+        <img src="./img/8.png" alt="devops" width="650">
     </p>
     
 - Nanti langsung diarahkan ke proses intalasi
 
     <p align="center">
-        <img src="./img/9.png" alt="devops">
+        <img src="./img/9.png" alt="devops" width="650">
     </p>
     
 - Pilih bahasa yang diinginkan **English**
 
     <p align="center">
-        <img src="./img/10.png" alt="devops">
+        <img src="./img/10.png" alt="devops" width="650">
     </p>
     
 - Selanjutnya bisa klik done
 
     <p align="center">
-        <img src="./img/11.png" alt="devops">
+        <img src="./img/11.png" alt="devops" width="650">
     </p>
 
     <p align="center">
-        <img src="./img/12.png" alt="devops">
+        <img src="./img/12.png" alt="devops" width="650">
     </p>
     
 - Ubah konfigurasi DHCPv4 menjadi Static
@@ -91,21 +91,21 @@ Sebelum lebih jauh membahas instalasi Ubuntu Server pastikan PC/Laptop kita suda
 - Masukan detail IP, sesuaikan dengan IP dari koneksi jaringan yang dipakai
 
     <p align="center">
-        <img src="./img/13.png" alt="devops">
+        <img src="./img/13.png" alt="devops" width="650">
     </p>
 
     <p align="center">
-        <img src="./img/14.png" alt="devops">
+        <img src="./img/14.png" alt="devops" width="650">
     </p>
     
 - Pada tahap selanjutnya bisa skip lagi dengan klik **Done**.
 
     <p align="center">
-        <img src="./img/15.png" alt="devops">
+        <img src="./img/15.png" alt="devops" width="650">
     </p>
 
     <p align="center">
-        <img src="./img/16.png" alt="devops">
+        <img src="./img/16.png" alt="devops" width="650">
     </p>
     
 - Pilih **Custom storage layout**. Disini kita akan buat 2 partisi untuk **root** dan **swap**
@@ -113,19 +113,20 @@ Sebelum lebih jauh membahas instalasi Ubuntu Server pastikan PC/Laptop kita suda
 - Atur ukuran space untuk swap dan root
 - Klik Done.
 - Klik Continue ketika muncul notifikasi konfigurasi yang telah dibuat.
+
     <p align="center">
-        <img src="./img/17.png" alt="devops">
+        <img src="./img/17.png" alt="devops" width="650">
     </p>
 
     <p align="center">
-        <img src="./img/18.png" alt="devops">
+        <img src="./img/18.png" alt="devops" width="650">
     </p>
 
     <p align="center">
-        <img src="./img/19.png" alt="devops">
+        <img src="./img/19.png" alt="devops" width="650">
     </p>
 
     <p align="center">
-        <img src="./img/20.png" alt="devops">
+        <img src="./img/20.png" alt="devops" width="650">
     </p>
     
