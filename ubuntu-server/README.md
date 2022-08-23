@@ -165,4 +165,4 @@ Sebelum lebih jauh membahas instalasi Ubuntu Server pastikan PC/Laptop kita suda
     </p>
 
 
-[Back](https://github.com/todikun/dev-ops/tree/main/localtunnel)    [Next](https://github.com/todikun/dev-ops/tree/main/localtunnel)
+[Back](https://github.com/todikun/dev-ops)    [Next](https://github.com/todikun/dev-ops/tree/main/localtunnel)
