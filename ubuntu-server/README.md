@@ -1,4 +1,4 @@
-# Instalasi Ubuntu Server di VMware
+# Install Ubuntu Server
 
 Sebelum lebih jauh membahas instalasi Ubuntu Server pastikan PC/Laptop kita sudah mendukung teknologi virtualisasi untuk mengecek nya ada beberapa cara : 
 
@@ -130,3 +130,37 @@ Sebelum lebih jauh membahas instalasi Ubuntu Server pastikan PC/Laptop kita suda
         <img src="./img/20.png" alt="devops" width="650">
     </p>
     
+- Masukan informasi seperti nama, username, dan password untuk server yang telah dibuat.
+
+    <p align="center">
+        <img src="./img/21.png" alt="devops" width="650">
+    </p>
+    
+- Ceklis Install Open SSHServer, agar nanti bisa digunakan untuk meremote server. Klik Done.
+
+    <p align="center">
+        <img src="./img/22.png" alt="devops" width="650">
+    </p>
+
+    <p align="center">
+        <img src="./img/23.png" alt="devops" width="650">
+    </p>
+    
+- Selanjutnya Klik **Reboot Now**.
+
+    <p align="center">
+        <img src="./img/24.png" alt="devops" width="650">
+    </p>
+
+- Masukan username dan password untuk masuk ke server yang telah dibuat.
+
+    <p align="center">
+        <img src="./img/25.png" alt="devops" width="650">
+    </p>
+
+- Untuk memastikan Ubuntu Server telah terhubung ke internet gunakan perintah
+> ping google.com
+
+    <p align="center">
+        <img src="./img/26.png" alt="devops" width="650">
+    </p>
