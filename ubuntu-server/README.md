@@ -163,3 +163,6 @@ Sebelum lebih jauh membahas instalasi Ubuntu Server pastikan PC/Laptop kita suda
     <p align="center">
         <img src="./img/26.png" alt="devops" width="650">
     </p>
+
+
+[Back](https://github.com/todikun/dev-ops/tree/main/localtunnel)    [Next](https://github.com/todikun/dev-ops/tree/main/localtunnel)
