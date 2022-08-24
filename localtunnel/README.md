@@ -3,6 +3,7 @@
 Daftar Isi :
   1. [Ubuntu Server](https://github.com/todikun/dev-ops/tree/main/ubuntu-server)
   2. [Localtunnel](https://github.com/todikun/dev-ops/tree/main/localtunnel)
+  3. *Soon!*
 ---
 Sebelum lanjut ke Localtunnel, kita coba ganti IP lama dengan baru karena koneksi yang dipilh sebelumnya pada sesi installasi **Ubuntu Server** static maka perlu di konfigurasi ulang.
   
@@ -11,7 +12,9 @@ Caranya:
     
     `sudo nano /etc/netplan/00-installer-config.yaml`
     
-    img 1
+    <p align="center">
+        <img src="./img/1.png" alt="devops">
+    </p>
   
   - Selanjutnya untuk keluar dari teks editor ini bisa menggunakan **ctrl + x** lalu **Y** setelah itu Enter
   - Ketik perintah berikut untuk mengkonfirmasi customisasi dari **IP** yang telah dirubah tadi
@@ -22,7 +25,10 @@ Caranya:
     
     `ping google.com`
     
-    img 2
+    <p align="center">
+        <img src="./img/2.png" alt="devops">
+    </p>
+    
 ---
 Instal localtunnel agar server local dapat diakses secara publik.
   - Install **node.js** dan **nvm**
@@ -39,19 +45,27 @@ Instal localtunnel agar server local dapat diakses secara publik.
 
     `npm -v`
     
-    img 3
+    <p align="center">
+        <img src="./img/3.png" alt="devops">
+    </p>
     
-    img 4
+    <p align="center">
+        <img src="./img/4.png" alt="devops">
+    </p>
     
   -  Selanjutnya install **Localtunnel** dengan **npm**
     
-    img 5
+    <p align="center">
+        <img src="./img/5.png" alt="devops">
+    </p>
     
   - Install **Apache2** 
   
     `sudo apt-get install apache2`
     
-    img 6
+    <p align="center">
+        <img src="./img/6.png" alt="devops">
+    </p>
     
   - Ketik **Y** jika muncul notifkasi
   
@@ -59,14 +73,21 @@ Instal localtunnel agar server local dapat diakses secara publik.
     
     `lt --port 80`
     
-    img 7
+    <p align="center">
+        <img src="./img/7.png" alt="devops">
+    </p>
     
   - Selanjutnya akses via web browser
     
-    img 8
+    <p align="center">
+        <img src="./img/8.png" alt="devops">
+    </p>
     
   - Klik Continue
   - Sekarang aplikasi sudah dapat diakses secara publik.
   
-    img 9
+    <p align="center">
+        <img src="./img/9.png" alt="devops">
+    </p>
+    
     
