@@ -13,7 +13,7 @@ Caranya:
     `sudo nano /etc/netplan/00-installer-config.yaml`
     
     <p align="center">
-        <img src="./img/1.png" alt="devops">
+        <img src="./img/1.png" alt="devops" width="650">
     </p>
   
   - Selanjutnya untuk keluar dari teks editor ini bisa menggunakan **ctrl + x** lalu **Y** setelah itu Enter
@@ -26,7 +26,7 @@ Caranya:
     `ping google.com`
     
     <p align="center">
-        <img src="./img/2.png" alt="devops">
+        <img src="./img/2.png" alt="devops" width="650">
     </p>
     
 ---
@@ -46,11 +46,11 @@ Instal localtunnel agar server local dapat diakses secara publik.
     `npm -v`
     
     <p align="center">
-        <img src="./img/3.png" alt="devops">
+        <img src="./img/3.png" alt="devops" width="650">
     </p>
     
     <p align="center">
-        <img src="./img/4.png" alt="devops">
+        <img src="./img/4.png" alt="devops" width="650">
     </p>
     
   -  Selanjutnya install **Localtunnel** dengan **npm**
@@ -58,7 +58,7 @@ Instal localtunnel agar server local dapat diakses secara publik.
      `npm install -g localtunnel`
      
      <p align="center">
-        <img src="./img/5.png" alt="devops">
+        <img src="./img/5.png" alt="devops" width="650">
      </p>
     
   - Install **Apache2** 
@@ -66,7 +66,7 @@ Instal localtunnel agar server local dapat diakses secara publik.
     `sudo apt-get install apache2`
     
     <p align="center">
-        <img src="./img/6.png" alt="devops">
+        <img src="./img/6.png" alt="devops" width="650">
     </p>
     
   - Ketik **Y** jika muncul notifkasi
@@ -76,20 +76,20 @@ Instal localtunnel agar server local dapat diakses secara publik.
     `lt --port 80`
     
     <p align="center">
-        <img src="./img/7.png" alt="devops">
+        <img src="./img/7.png" alt="devops" width="650">
     </p>
     
   - Selanjutnya akses via web browser
     
     <p align="center">
-        <img src="./img/8.png" alt="devops">
+        <img src="./img/8.png" alt="devops" width="650">
     </p>
     
   - Klik Continue
   - Sekarang aplikasi sudah dapat diakses secara publik.
   
     <p align="center">
-        <img src="./img/9.png" alt="devops">
+        <img src="./img/9.png" alt="devops" width="650">
     </p>
     
     
