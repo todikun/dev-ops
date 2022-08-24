@@ -54,10 +54,12 @@ Instal localtunnel agar server local dapat diakses secara publik.
     </p>
     
   -  Selanjutnya install **Localtunnel** dengan **npm**
-    
-    <p align="center">
+  
+     `npm install -g localtunnel`
+     
+     <p align="center">
         <img src="./img/5.png" alt="devops">
-    </p>
+     </p>
     
   - Install **Apache2** 
   
