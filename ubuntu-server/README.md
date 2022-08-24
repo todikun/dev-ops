@@ -1,6 +1,9 @@
 # Install Ubuntu Server
-[Back](https://github.com/todikun/dev-ops)    [Next](https://github.com/todikun/dev-ops/tree/main/localtunnel)
 
+Daftar Isi :
+  1. [Ubuntu Server](https://github.com/todikun/dev-ops/tree/main/ubuntu-server)
+  2. [Localtunnel](https://github.com/todikun/dev-ops/tree/main/localtunnel)
+---
 Sebelum lebih jauh membahas instalasi Ubuntu Server pastikan PC/Laptop kita sudah mendukung teknologi virtualisasi untuk mengecek nya ada beberapa cara : 
 
 1. **Command Prompt** 
