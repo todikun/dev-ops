@@ -1,16 +1,18 @@
 # Application in Server
 
-
-
-
+Daftar Isi :
+  1. [Ubuntu Server](https://github.com/todikun/dev-ops/tree/main/ubuntu-server)
+  2. [Localtunnel](https://github.com/todikun/dev-ops/tree/main/localtunnel)
+  3. *Soon!*
+---
 1. NodeJs
 
    - Install engine javascript V8
    `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash`
    - Jalan perintah ini jika nvm belum terdeteksi `exec bash`
    
-   <p class="text-center>
-      <img src="./img/1.png" alt="devops" width="650">
+   <p align="center>
+      <img src="/img/1.png" alt="devops" width="650">
    </p>
    
    - Ketik perintah berikut untuk install npm
