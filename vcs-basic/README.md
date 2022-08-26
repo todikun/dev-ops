@@ -7,7 +7,7 @@ Daftar Isi :
   4. [Version Control System](https://github.com/todikun/dev-ops/tree/main/vcs-basic)
   5. *SOON!*
 ---
-### Python [Here](), Golang [Here](), dan NodeJS [Here]().
+### Python [Here](https://github.com/todikun/app-python), Golang [Here](https://github.com/todikun/app-golang), dan NodeJS [Here](https://github.com/todikun/app-nodejs).
    - Masuk ke directory project
    - Ketik perintah `git init` agar git dapat menginisiasi project kita
    
