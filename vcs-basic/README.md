@@ -91,6 +91,3 @@ Daftar Isi :
    <p align="center">
       <img src="./img/11.png" alt="devops" width"="650">
    </p> 
-   `git merge master`
-   
-   
