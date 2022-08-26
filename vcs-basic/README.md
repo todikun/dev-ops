@@ -1,6 +1,12 @@
 # Version Control System
-Daftar isi
 
+Daftar Isi :
+  1. [Ubuntu Server](https://github.com/todikun/dev-ops/tree/main/ubuntu-server)
+  2. [Localtunnel](https://github.com/todikun/dev-ops/tree/main/localtunnel)
+  3. [Simple Application in Server](https://github.com/todikun/dev-ops/tree/main/application-in-server)
+  4. [Version Control System](https://github.com/todikun/dev-ops/tree/main/vcs-basic)
+  5. *SOON!*
+---
 ### Python [Here](), Golang [Here](), dan NodeJS [Here]().
    - Masuk ke directory project
    - Ketik perintah `git init` agar git dapat menginisiasi project kita
