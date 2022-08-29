@@ -12,7 +12,7 @@ Daftar Isi :
 
 Ctt : Login [Cloudflare](https://cloudflare.com/), jika belum punya akun silahkan registrasi terlebih dahulu [Cloudflare](https://cloudflare.com/sign-up)
 
-1. Cloudflare Pages
+### 1. Cloudflare Pages
    - Masuk kemenu **pages** untuk membuat project baru
    
    <p align="center">
@@ -66,7 +66,7 @@ Ctt : Login [Cloudflare](https://cloudflare.com/), jika belum punya akun silahka
     <img src="./img/9.png" alt="devops" width="650">
    </p>
    
-2. Update code
+### 2. Update code
 
    - Buka ubuntu server di VMWare
    - Lakukan clone repository `git clone <repository>`
@@ -109,7 +109,7 @@ Ctt : Login [Cloudflare](https://cloudflare.com/), jika belum punya akun silahka
     <img src="./img/15.png" alt="devops" width="650">
    </p>
    
-   - Title pada web pages telah berubah
+   - **Title** pada web pages telah berubah
    
    <p align="center">
     <img src="./img/16.png" alt="devops" width="650">
