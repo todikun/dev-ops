@@ -5,7 +5,8 @@ Daftar Isi :
   2. [Localtunnel](https://github.com/todikun/dev-ops/tree/main/localtunnel)
   3. [Simple Application in Server](https://github.com/todikun/dev-ops/tree/main/application-in-server)
   4. [Version Control System](https://github.com/todikun/dev-ops/tree/main/vcs-basic)
-  5. *SOON!*
+  5. [CI/CD with Cloudflare Pages](https://github.com/todikun/dev-ops/blob/main/cicd-with-cloudflare)
+  6. *SOON!*
 ---
 ### Python [Here](https://github.com/todikun/app-python), Golang [Here](https://github.com/todikun/app-golang), dan NodeJS [Here](https://github.com/todikun/app-nodejs).
    - Masuk ke directory project
