@@ -5,7 +5,8 @@ Daftar Isi :
   2. [Localtunnel](https://github.com/todikun/dev-ops/tree/main/localtunnel)
   3. [Simple Application in Server](https://github.com/todikun/dev-ops/tree/main/application-in-server)
   4. [Version Control System](https://github.com/todikun/dev-ops/tree/main/vcs-basic)
-  5. *SOON!*
+  5. [CI/CD with Cloudflare Pages](https://github.com/todikun/dev-ops/blob/main/cicd-with-cloudflare)
+  6. *SOON!*
 ---
 Sebelum lebih jauh membahas instalasi Ubuntu Server pastikan PC/Laptop kita sudah mendukung teknologi virtualisasi untuk mengecek nya ada beberapa cara : 
 
