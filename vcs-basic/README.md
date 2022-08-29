@@ -13,7 +13,7 @@ Daftar Isi :
    - Ketik perintah `git init` agar git dapat menginisiasi project kita
    
    <p align="center">
-      <img src="./img/1.png" alt="devops" width"="650">
+      <img src="./img/1.png" alt="devops" width="650">
    </p>
    
    - Ketik perintah :
@@ -22,13 +22,13 @@ Daftar Isi :
    - Untuk memastikan bahwa project telah diinisasi ketik perintah berikut `git status`
    
    <p align="center">
-      <img src="./img/2.png" alt="devops" width"="650">
+      <img src="./img/2.png" alt="devops" width="650">
    </p>
    
    - Selanjut nya agar project dapat di upload ke repository di github, buat sebuah repositroy 
    
    <p align="center">
-      <img src="./img/3.png" alt="devops" width"="650">
+      <img src="./img/3.png" alt="devops" width="650">
    </p>
    
    - Buat remote
@@ -38,7 +38,7 @@ Daftar Isi :
    `git push origin master` 
    
    <p align="center">
-      <img src="./img/4.png" alt="devops" width"="650">
+      <img src="./img/4.png" alt="devops" width="650">
    </p>
    
    - Buat branch staging
@@ -51,29 +51,29 @@ Daftar Isi :
    `git branch -a`
    
    <p align="center">
-      <img src="./img/5.png" alt="devops" width"="650">
+      <img src="./img/5.png" alt="devops" width="650">
    </p>
    
    - Lakukan pull agar branch staging dapat update commit terbaru dari branch master
    `git pull origin master`
    
    <p align="center">
-      <img src="./img/6.png" alt="devops" width"="650">
+      <img src="./img/6.png" alt="devops" width="650">
    </p>
    
    - Selanjutnya lakukan push
    `git push -u origin staging`
    
    <p align="center">
-      <img src="./img/7.png" alt="devops" width"="650">
+      <img src="./img/7.png" alt="devops" width="650">
    </p>   
    
    <p align="center">
-      <img src="./img/8.png" alt="devops" width"="650">
+      <img src="./img/8.png" alt="devops" width="650">
    </p>   
    
    <p align="center">
-      <img src="./img/9.png" alt="devops" width"="650">
+      <img src="./img/9.png" alt="devops" width="650">
    </p>
    
    - Buat branch baru dengan nama production
@@ -81,7 +81,7 @@ Daftar Isi :
    `git checkout production`
       
    <p align="center">
-      <img src="./img/10.png" alt="devops" width"="650">
+      <img src="./img/10.png" alt="devops" width="650">
    </p>
    
    - Terakhir kita akan menggabungkan branch master ke branch production
@@ -90,5 +90,5 @@ Daftar Isi :
    `git push origin production`
         
    <p align="center">
-      <img src="./img/11.png" alt="devops" width"="650">
+      <img src="./img/11.png" alt="devops" width="650">
    </p> 
