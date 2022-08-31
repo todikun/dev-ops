@@ -60,7 +60,7 @@ Text editor sangat penting dipelajari karena akan membantu kita dalam membuat se
     <p align="center">
       <img src="./img/6.png" alt="devops" width="650">
     </p>
----
+
 ### Text Manipulation
 
 - **cat**
@@ -86,6 +86,7 @@ Akan mencari dan menghitung kata saya di file test.md
 <p align="center">
   <img src="./img/9.png" alt="devops" width="650">
 </p>
+
 ---
 ### Monitoring
 
