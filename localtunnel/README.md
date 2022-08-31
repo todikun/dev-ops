@@ -5,8 +5,9 @@ Daftar Isi :
   2. [Localtunnel](https://github.com/todikun/dev-ops/tree/main/localtunnel)
   3. [Simple Application in Server](https://github.com/todikun/dev-ops/tree/main/application-in-server)
   4. [Version Control System](https://github.com/todikun/dev-ops/tree/main/vcs-basic)
-  5. [CI/CD with Cloudflare Pages](https://github.com/todikun/dev-ops/blob/main/cicd-with-cloudflare)
-  6. *SOON!*
+  5. [CI/CD with Cloudflare Pages](https://github.com/todikun/dev-ops/tree/main/cicd-with-cloudflare)
+  6. [Manage Server with Terminal](https://github.com/todikun/dev-ops/tree/main/manage-server-with-terminal)
+  7. *SOON!*
 ---
 Sebelum lanjut ke Localtunnel, kita coba ganti IP lama dengan baru karena koneksi yang dipilh sebelumnya pada sesi installasi **Ubuntu Server** static maka perlu di konfigurasi ulang.
   
