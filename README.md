@@ -6,4 +6,5 @@ Daftar Isi :
   3. [Simple Application in Server](https://github.com/todikun/dev-ops/tree/main/application-in-server)
   4. [Version Control System](https://github.com/todikun/dev-ops/tree/main/vcs-basic)
   5. [CI/CD with Cloudflare Pages](https://github.com/todikun/dev-ops/blob/main/cicd-with-cloudflare)
-  6. *SOON!*
+  6. [Manage Server with Terminal](https://github.com/todikun/dev-ops/blob/main/manage-server-with-terminal)
+  7. *SOON!*
