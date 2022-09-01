@@ -90,8 +90,112 @@ Akan mencari dan menghitung kata saya di file test.md
 ---
 ### Monitoring
 
+Monitoring penting karena kita dapat memantau keadaan server, seperti apakah server tersebut resource nya masih aman, atau server tersebut masih bagus atau ada yang down.
 
+`htop`
+
+<p align="center">
+  <img src="./img/10.png" alt="devops" width="650">
+</p>
+
+Nmon
+
+`sudo apt-get install nmon`
+
+<p align="center">
+  <img src="./img/11.png" alt="devops" width="650">
+</p>
+
+untuk menjalakankannya
+
+`nmon`
+
+<p align="center">
+  <img src="./img/12.png" alt="devops" width="650">
+</p>
+
+<p align="center">
+  <img src="./img/13.png" alt="devops" width="650">
+</p>
+
+### Netwwork Firewall
  
+Firewall merupakan garis pertahanan pertama dalam menjaga keamanan jaringan komputer.
+
+- Ufw 
+  
+  `sudo apt-get install ufw -y`
+  
+<p align="center">
+  <img src="./img/14.png" alt="devops" width="650">
+</p>
+
+- Untuk menampilkan aplikasi yang didukung oleh ufw pada server
+
+`sudo ufw app list`
+  
+<p align="center">
+  <img src="./img/15.png" alt="devops" width="650">
+</p>
+
+## File bash
+
+- Membuat file bash yang berisi script untuk melakukan update & upgrade system
+
+  `nano update-system.sh`
+
+  <p align="center">
+    <img src="./img/16.png" alt="devops" width="650">
+  </p>
+
+  - Ketik perintah berikut untuk mengeksekusi
+
+  `bash update-system.sh`
+
+  <p align="center">
+    <img src="./img/17.png" alt="devops" width="650">
+  </p>
+
+  <p align="center">
+    <img src="./img/18.png" alt="devops" width="650">
+  </p>
+
+- Membuat file bash untuk membuat firewall port 22, 80 dan 443
+  
+  - Aktifkan ufw
+  
+    `sudo ufw enable`
+    
+  - Ketik perintah `sudo ufw verbose` untuk melihat status ufw
+  
+  <p align="center">
+    <img src="./img/19.png" alt="devops" width="650">
+  </p>
+  
+  - Buat sebuah file bash `nano ufw-port.sh`
+  
+  <p align="center">
+    <img src="./img/20.png" alt="devops" width="650">
+  </p>
+  
+  - Ketik perintah berikut untuk mengeksekusi file bash `bash ufw-port.sh`
+  
+  <p align="center">
+    <img src="./img/21.png" alt="devops" width="650">
+  </p>
+  
+  - Terakhir kita akan membuat file bash untuk mematikan firewall port 22, 80, 443
+  
+  
+  <p align="center">
+    <img src="./img/22.png" alt="devops" width="650">
+  </p>
+
+  <p align="center">
+    <img src="./img/23.png" alt="devops" width="650">
+  </p>
+
+
 
 
         
