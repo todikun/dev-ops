@@ -1,4 +1,5 @@
 # Manage Server With Terminal
+
 Daftar Isi :
   1. [Ubuntu Server](https://github.com/todikun/dev-ops/tree/main/ubuntu-server)
   2. [Localtunnel](https://github.com/todikun/dev-ops/tree/main/localtunnel)
@@ -6,7 +7,7 @@ Daftar Isi :
   4. [Version Control System](https://github.com/todikun/dev-ops/tree/main/vcs-basic)
   5. [CI/CD with Cloudflare Pages](https://github.com/todikun/dev-ops/tree/main/cicd-with-cloudflare)
   6. [Manage Server with Terminal](https://github.com/todikun/dev-ops/tree/main/manage-server-with-terminal)
-  7. *SOON!*
+  7. [Web Server & Load Balancing](https://github.com/todikun/dev-ops/tree/main/web-server-load-balancing)
 ---
 ## 1. Terminal
 Terminal merupakan tools yang sangat penting untuk dipahami, karena pada server berbasis unix/linux tidak ada GUI untuk 
