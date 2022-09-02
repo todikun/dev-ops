@@ -48,7 +48,9 @@ bash <nama-file.sh>
 <p align="center">
   <img src"./img/5.png" alt="devops" width="650">
 </p>
+
 ---
+
 ## Konfigurasi Reverse Proxy dan Load Balancer dengan 2 server
 Aplikasi **node js** sudah berjalan di port **3000**
 
